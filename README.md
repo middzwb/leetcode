@@ -39,6 +39,7 @@
 * 513\. Find Bottom Left Tree Value
 * 515\. Find Largest Value in Each Tree Row
 * 538\. Convert BST to Greater Tree
+* 623\. Add One Row to Tree
 
 ### Graph
 
@@ -95,6 +96,7 @@
 * 402\. Remove K Digits
 * 456\. 132 Pattern
 * 503\. Next Greater Element II
+* 636\. Exclusive Time of Functions
 
 ## Hash
 

@@ -77,12 +77,14 @@
 ## Design Data Structure
 
 * 622\. Design Circular Queue
+* 641\. Design Circular Deque
 
 ### Trie
 
 * 139\. Word Break :memoization
 * 211\. Design Add and Search Words Data Structure
 * 421\. Maximum XOR of Two Numbers in an Array
+* 648\. Replace Words
 
 ### Segment Tree
 
@@ -131,6 +133,8 @@
 * 516\. Longest Palindromic Subsequence
 * 576\. Out of Boundary Paths
 * 583\. Delete Operation for Two Strings
+* 646\. Maximum Length of Pair Chain
+* 647\. Palindromic Substrings
 
 ## Sort
 
@@ -189,6 +193,7 @@
 * 473\. Matchsticks to Square
 * 491\. Increasing Subsequences
 * 529\. Minesweeper
+* 638\. Shopping Offers
 
 ### Backtracking
 
@@ -228,6 +233,7 @@
 * 435\. Non-overlapping Intervals
 * 452\. Minimum Number of Arrows to Burst Balloons
 * 621\. Task Scheduler
+* 649\. Dota2 Senate
 
 ## Bit Manipulation
 

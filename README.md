@@ -41,6 +41,8 @@
 * 538\. Convert BST to Greater Tree
 * 623\. Add One Row to Tree
 * 652\. Find Duplicate Subtrees
+* 654\. Maximum Binary Tree
+* 655\. Print Binary Tree
 
 ### Graph
 

@@ -1,6 +1,4 @@
 
-## 数据结构
-
 ### List
 
 * 61\. Rotate List
@@ -103,6 +101,10 @@
 * 503\. Next Greater Element II
 * 636\. Exclusive Time of Functions
 
+## Heap
+
+* 659\. Split Array into Consecutive Subsequences
+
 ## Hash
 
 * 454\. 4Sum II
@@ -164,6 +166,7 @@
 * 436\. Find Right Interval
 * 528\. Random Pick with Weight
 * 540\. Single Element in a Sorted Array
+* 658\. Find K Closest Elements
 
 ## Others
 

@@ -41,6 +41,7 @@
 * 652\. Find Duplicate Subtrees
 * 654\. Maximum Binary Tree
 * 655\. Print Binary Tree
+* 662\. Maximum Width of Binary Tree
 
 ### Graph
 
@@ -68,6 +69,7 @@
 * 442\. Find All Duplicates in an Array
 * 581\. Shortest Unsorted Continuous Subarray
 * 611\. Valid Triangle Number
+* 667\. Beautiful Arrangement II
 
 ## String
 
@@ -241,6 +243,7 @@
 * 452\. Minimum Number of Arrows to Burst Balloons
 * 621\. Task Scheduler
 * 649\. Dota2 Senate
+* 670\. Maximum Swap
 
 ## Bit Manipulation
 

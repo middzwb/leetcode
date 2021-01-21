@@ -88,6 +88,7 @@
 * 211\. Design Add and Search Words Data Structure
 * 421\. Maximum XOR of Two Numbers in an Array
 * 648\. Replace Words
+* 676\. Implement Magic Dictionary
 
 ### Segment Tree
 
@@ -142,6 +143,7 @@
 * 583\. Delete Operation for Two Strings
 * 646\. Maximum Length of Pair Chain
 * 647\. Palindromic Substrings
+* 673\. Number of Longest Increasing Subsequence TODO: Segment Tree
 
 ## Sort
 

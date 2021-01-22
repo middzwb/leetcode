@@ -89,6 +89,7 @@
 * 421\. Maximum XOR of Two Numbers in an Array
 * 648\. Replace Words
 * 676\. Implement Magic Dictionary
+* 677\. Map Sum Pairs
 
 ### Segment Tree
 
@@ -246,6 +247,7 @@
 * 621\. Task Scheduler
 * 649\. Dota2 Senate
 * 670\. Maximum Swap
+* 678\. Valid Parenthesis String
 
 ## Bit Manipulation
 

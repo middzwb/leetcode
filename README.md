@@ -53,6 +53,7 @@
 #### Union-Find
 
 * 547\. Number of Provinces
+* 684\. Redundant Connection
 
 ## Array
 
@@ -76,6 +77,7 @@
 * 43\. Multiply Strings
 * 151\. Reverse Words in a String
 * 227\. Basic Calculator II
+* 686\. Repeated String Match
 
 ## Design Data Structure
 

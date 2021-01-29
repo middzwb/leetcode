@@ -42,6 +42,8 @@
 * 654\. Maximum Binary Tree
 * 655\. Print Binary Tree
 * 662\. Maximum Width of Binary Tree
+* 687\. Longest Univalue Path
+* 701\. Insert into a Binary Search Tree
 
 ### Graph
 
@@ -110,6 +112,7 @@
 ## Heap
 
 * 659\. Split Array into Consecutive Subsequences
+* 692\. Top K Frequent Words
 
 ## Hash
 
@@ -147,6 +150,8 @@
 * 646\. Maximum Length of Pair Chain
 * 647\. Palindromic Substrings
 * 673\. Number of Longest Increasing Subsequence TODO: Segment Tree
+* 688\. Knight Probability in Chessboard
+* 712\. Minimum ASCII Delete Sum for Two Strings
 
 ## Sort
 
@@ -194,6 +199,7 @@
 * 18\. 4Sum
 * 43\. Multiply Strings
 * 532\. K-diff Pairs in an Array
+* 713\. Subarray Product Less Than K
 
 ## DFS
 
@@ -207,6 +213,8 @@
 * 491\. Increasing Subsequences
 * 529\. Minesweeper
 * 638\. Shopping Offers
+* 695\. Max Area of Island
+* 698\. Partition to K Equal Sum Subsets
 
 ### Backtracking
 

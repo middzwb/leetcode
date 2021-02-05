@@ -13,6 +13,7 @@
 * 382\. Linked List Random Node
 * 430\. Flatten a Multilevel Doubly Linked List
 * 445\. Add Two Numbers II
+* 725\. Split Linked List in Parts
 
 ### Tree
 
@@ -51,6 +52,7 @@
 * 210\. Course Schedule II
 * 310\. Minimum Height Trees
 * 399\. Evaluate Division
+* 721\. Accounts Merge
 
 #### Union-Find
 
@@ -108,6 +110,8 @@
 * 456\. 132 Pattern
 * 503\. Next Greater Element II
 * 636\. Exclusive Time of Functions
+* 735\. Asteroid Collision
+* 739\. Daily Temperatures
 
 ## Heap
 
@@ -152,6 +156,7 @@
 * 673\. Number of Longest Increasing Subsequence TODO: Segment Tree
 * 688\. Knight Probability in Chessboard
 * 712\. Minimum ASCII Delete Sum for Two Strings
+* 718\. Maximum Length of Repeated Subarray
 
 ## Sort
 
@@ -179,6 +184,8 @@
 * 528\. Random Pick with Weight
 * 540\. Single Element in a Sorted Array
 * 658\. Find K Closest Elements
+* 729\. My Calendar I
+* 731\. My Calendar II
 
 ## Others
 
@@ -200,6 +207,12 @@
 * 43\. Multiply Strings
 * 532\. K-diff Pairs in an Array
 * 713\. Subarray Product Less Than K
+
+### State Machine
+
+* 722\. Remove Comments
+
+----
 
 ## DFS
 
@@ -258,6 +271,8 @@
 * 649\. Dota2 Senate
 * 670\. Maximum Swap
 * 678\. Valid Parenthesis String
+* 714\. Best Time to Buy and Sell Stock with Transaction Fee
+* 738\. Monotone Increasing Digits
 
 ## Bit Manipulation
 

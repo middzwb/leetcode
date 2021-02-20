@@ -53,6 +53,7 @@
 * 310\. Minimum Height Trees
 * 399\. Evaluate Division
 * 721\. Accounts Merge
+* 743\. Network Delay Time   [Dijkstra]
 
 #### Union-Find
 
@@ -157,6 +158,7 @@
 * 688\. Knight Probability in Chessboard
 * 712\. Minimum ASCII Delete Sum for Two Strings
 * 718\. Maximum Length of Repeated Subarray
+* 740\. Delete and Earn
 
 ## Sort
 

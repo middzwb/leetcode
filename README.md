@@ -1,3 +1,33 @@
+---
+title: README
+date: 2021-04-07 11:12:41
+tags:
+---
+
+- [Array](#array)
+- [String](#string)
+- [Design Data Structure](#design-data-structure)
+  - [Trie](#trie)
+  - [Segment Tree](#segment-tree)
+- [Stack](#stack)
+- [Heap](#heap)
+- [Hash](#hash)
+- [Dynamic Programming](#dynamic-programming)
+- [Sort](#sort)
+  - [Binary Search](#binary-search)
+- [Others](#others)
+  - [Sliding window](#sliding-window)
+  - [Two Pointers](#two-pointers)
+  - [State Machine](#state-machine)
+- [DFS](#dfs)
+  - [Backtracking](#backtracking)
+- [BFS](#bfs)
+- [Knapsack](#knapsack)
+- [Random](#random)
+- [Math](#math)
+- [Greedy](#greedy)
+- [Bit Manipulation](#bit-manipulation)
+- [Divide and Conquer](#divide-and-conquer)
 
 ### List
 
